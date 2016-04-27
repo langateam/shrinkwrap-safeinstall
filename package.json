@@ -1,0 +1,26 @@
+{
+  "name": "shrinkwrap.io",
+  "version": "0.0.0",
+  "description": "shrinkwrap.io \"safeinstall\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langateam/shrinkwrap-safeinstall.git"
+  },
+  "keywords": [
+    "shrinkwrap",
+    "bundle",
+    "safeinstall",
+    "deployment",
+    "cache"
+  ],
+  "author": "Langa <hello@langa.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/langateam/shrinkwrap-safeinstall/issues"
+  },
+  "homepage": "https://github.com/langateam/shrinkwrap-safeinstall#readme"
+}
